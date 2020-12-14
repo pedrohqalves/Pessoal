@@ -1,0 +1,5 @@
+
+gcsfs==0.6.1
+pandas==0.25.3
+
+python-dateutil==2.7.5
